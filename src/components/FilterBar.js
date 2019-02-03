@@ -21,6 +21,7 @@ class FilterBar extends Component {
           </select>
         </div>
       </div>
+      
     )
   }
 
